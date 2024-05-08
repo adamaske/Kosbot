@@ -3,6 +3,6 @@ project(Kosbot VERSION 1.0)
 
 add_subdirectory(vendor/Fundamentum)
 
-target_link_libraries(Kosbot PRIVATE vendor)
+target_link_libraries(Kosbot PRIVATE Fundamentum)
 
 
