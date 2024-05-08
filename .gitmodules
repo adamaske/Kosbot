@@ -1,3 +1,6 @@
 [submodule "Fundamentum"]
 	path = vendor/Fundamentum
 	url = https://github.com/adamaske/Fundamentum
+[submodule "fundament"]
+	path = dependencies/fundament
+	url = https://github.com/adamaske/Fundamentum
