@@ -1,0 +1,3 @@
+[submodule "Fundamentum"]
+	path = vendor/Fundamentum
+	url = https://github.com/adamaske/Fundamentum
