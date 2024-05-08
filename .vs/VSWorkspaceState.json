@@ -8,10 +8,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\vendor",
-    "\\vendor\\Fundamentum",
-    "\\vendor\\Fundamentum\\src"
+    "\\vendor"
   ],
-  "SelectedNode": "\\vendor\\Fundamentum\\src\\CMakeLists.txt",
+  "SelectedNode": "\\vendor",
   "PreviewInSolutionExplorer": false
 }

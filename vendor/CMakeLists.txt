@@ -1,4 +1,0 @@
-add_library(dependencies INTERFACE)
-
-add_subdirectory(Fundamentum)
-target_link_libraries(depdendencies INTERFACE Fundamentum)
