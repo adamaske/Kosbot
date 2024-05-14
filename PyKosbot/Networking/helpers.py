@@ -1,6 +1,0 @@
-
-
-def MergeBytes(bytes):
-    
-    
-    return

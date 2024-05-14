@@ -1,4 +1,0 @@
-// the configured options and settings for Kosbot
-#define Kosbot_VERSION_MAJOR @Kosbot_VERSION_MAJOR@
-#define Kosbot_VERSION_MINOR @Kosbot_VERSION_MINOR@
-
