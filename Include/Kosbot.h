@@ -1,8 +1,18 @@
 #pragma once
 
+#include "Graphics.h"
+#include "KosbotServer.h"
+#include <memory>
+
 class Kosbot{
 
-    public:
+private:
+    std::shared_ptr<Graphics> graphics;
+    std::shared_ptr<KosbotServer> server;
+
+public:
+    void Initalize();
 
     void Run();
+
 };

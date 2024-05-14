@@ -4,3 +4,6 @@
 [submodule "fundament"]
 	path = dependencies/fundament
 	url = https://github.com/adamaske/Fundamentum
+[submodule "Vendor/Kostull"]
+	path = Vendor/Kostull
+	url = https://github.com/adamaske/Kostull
