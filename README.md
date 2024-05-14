@@ -1,5 +1,7 @@
 # Kosbot
  Kosbot is a C++ application for control, simulation and visualization of robot arms.  
+ Kosbot is based on [Kostull](https://github.com/adamaske/Kostull). 
+[PyKosbot](https://github.com/adamaske/PyKosbot) is an example for interfacing with Kosbot via Python. 
  
  # TODO : Kostull
  [Kostull](https://github.com/adamaske/Kostull) is the foundation of Kosbot. 
